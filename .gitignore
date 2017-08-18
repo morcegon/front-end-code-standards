@@ -61,3 +61,5 @@ sftp-config*
 
 vendor/
 bower_components/
+.phpintel/
+.sass-cache/
